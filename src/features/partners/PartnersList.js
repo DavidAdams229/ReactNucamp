@@ -21,6 +21,7 @@ const PartnersList = () => {
             })}
             
         </Col>
+        //comment
     )
 };
 export default PartnersList;
